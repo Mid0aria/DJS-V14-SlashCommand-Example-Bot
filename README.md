@@ -5,6 +5,7 @@
 ```
 > YOU NEED LATEST NODEJS !
 > download zip file or run git clone https://github.com/Mid0aria/DJS-V14-SlashCommand-Example-Bot.git
+> edit config.json 
 ```
 ```
 > run npm i
