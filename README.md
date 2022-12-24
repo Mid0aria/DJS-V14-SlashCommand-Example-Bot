@@ -1,7 +1,5 @@
 # DJS-V14-SlashCommand-Example-Bot
 
-# Umi AIO
-
 ## 🎈・Usage
 
 ```
@@ -16,7 +14,7 @@
 ```
 > run node main.js
 ```
-
+![](https://raw.githubusercontent.com/Mid0aria/DJS-V14-SlashCommand-Example-Bot/main/images/nodemainjs.gif)
 
 
 ## ⭐・Give A Star
